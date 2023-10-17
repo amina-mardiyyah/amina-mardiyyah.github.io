@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.idiap.ch/~arufai/'>predoctoral research intern at Idiap Research Institute</a> | actively Searching For A PHD Position In Biomedical AI
 
 profile:
   align: right

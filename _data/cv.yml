@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Amina Mardiyyah Rufai
+    #- name: Date of Birth
+      #value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Masters in Machine Intelligence
+      institution: African Institute For Mathematical Sciences
+      year: 2021-2022
       description:
         - Description 1.
         - Description 2.
