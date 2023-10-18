@@ -24,5 +24,5 @@ I am currently working as predoctoral research intern at [Idiap](https://idiap.c
 **Research Interests**:
 Interested in LLMs, Speech and audio processing, Pattern Recognition and Computer Vision, with applications to Clinical use-cases/Healthcare, Low-resource/resource-constrained environments
 
-Other Interesting things me
+**Other Interesting things me**
 In my spare time, i write articles, You can read my articles on [Medium](https://mardiyyah.medium.com). I also love participating in competitive hackathons. Find profile Here: [Zindi](https://zindi.africa/users/Mardiyyah)

@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - amina-mardiyyah
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ogunlao/saint
+  - amina-mardiyyah/Python-Projects
+  - amina-mardiyyah/Automatic-Speech-Recognition-Projects
+  - amina-mardiyyah/English-Wolof-Research-Repository 
+  - amina-mardiyyah/Computer-Vision-Projects
+
+  
