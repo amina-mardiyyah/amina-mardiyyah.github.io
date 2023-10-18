@@ -19,14 +19,24 @@ social: true  # includes social icons at the bottom of the page
 
 
 I earned an Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence [AIMS/AMMI](www.aimsammi.org), fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. I have wide range of experience working on projects involving text-classification, language modelling, and speech recognition systems.
-I am currently working as research intern at [Idiap](https://idiap.ch/en) Research Institute in Martigny, Switzerland, supervised by [Phil Garner](https://pgarner.github.io/). In the past, I worked as a summer intern at the [École polytechnique fédérale de Lausanne (EPFL](https://epfl.ch/en)) a public research university located in Lausanne, Switzerland.
+<br>
+I am currently working as research intern at [Idiap](https://idiap.ch/en) Research Institute in Martigny, Switzerland, supervised by [Phil Garner](https://pgarner.github.io/). 
+
+In the past, I worked as a summer intern at the [École polytechnique fédérale de Lausanne (EPFL](https://epfl.ch/en)) a public research university located in Lausanne, Switzerland.
 
 **Research Interests**:
-Interested in LLMs, Speech and audio processing, Pattern Recognition and Computer Vision, with applications to Clinical use-cases/Healthcare, Low-resource/resource-constrained environments
+
+My research interests lie at the intersection of my two degrees in Machine Intelligence and Biomedical Engineering, with a focus on leveraging Artificial Intelligence (AI) applications in healthcare, low-resource use-cases. My goal is to contribute to the advancement of healthcare through the integration of cutting-edge technologies, addressing challenges in diagnostics, therapy, and medical imaging. Specifically, I am keenly interested in exploring the following areas:
+
+<ul>
+    <li>Applications of Large Language Models</li>
+    <li>Speech and Audio Processing for Disease Diagnosis and Rehabilitation Therapy</li>
+    <li>Medical Image Analysis utilizing advanced state-of-the-art Computer Vision methods</li>
+</ul>
+
 
 **Other Interesting things me**
 In my spare time, i write articles, You can read my articles on [Medium](https://mardiyyah.medium.com). I also love participating in competitive hackathons. Find profile Here: [Zindi](https://zindi.africa/users/Mardiyyah)
-
 
 
 <!-- <h4><strong>Summary Background</strong></h4>
