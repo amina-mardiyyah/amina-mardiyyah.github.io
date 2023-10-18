@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: January 2021 - August 2022
 inline: true
 related_posts: false
 ---
+Masters in Mathematics [Major in Machine Intelligence](https://aimsammi.org) Class of 2021
 
-A simple inline announcement.

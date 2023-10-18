@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: amina-mardiyyah
-gitlab_username: arufai
+gitlab_username: #
 twitter_username: diyyah92
 #mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: Aminah Mardiyyah Rufai
@@ -378,7 +378,7 @@ medium_zoom:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
+  - data: data/cv.yml
     json: assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
