@@ -26,3 +26,29 @@ Interested in LLMs, Speech and audio processing, Pattern Recognition and Compute
 
 **Other Interesting things me**
 In my spare time, i write articles, You can read my articles on [Medium](https://mardiyyah.medium.com). I also love participating in competitive hackathons. Find profile Here: [Zindi](https://zindi.africa/users/Mardiyyah)
+
+
+
+<h4><strong>Summary Background</strong></h4>
+<h4>Education </h4>
+<ul>
+    <li>Masters in Mathematics Major in Machine Intelligence | <a href="https://aimsammi.org">Afican Institute For Mathematical Science</a> Class of 2021</li>
+    <li>Masters in Biomedical Engineering | <a href="https://unilag.edu.ng"> University of Lagos</a></li>
+    <li>Bachelor in Chemical Engineering | University of Benin, Nigeria</li>
+</ul>
+
+<h4>Experiences</h4>
+<ul>
+    <li>Pre-doctoral Research Intern | <a href="https://idiap.ch/en">Idiap Research Institute</a> | March 2023</li>
+    <li>Summer Research Intern | <a href="https://epfl.ch/en">EPFL</a> | June 2022</li>
+    <li>Research Analyst | <a href="https://www.datasciencenigeria.org/">Data Scientist Network</a> | 2021</li>
+</ul>
+
+<h4>Projects</h4>
+<ul>
+    <li> Storytelling and Job Performance modelling from digital interviews(<a href="https://data.snf.ch/grants/grant/197479">STEADI</a>) | current work at Idiap | 2023</li>
+    <li> Nigerian Pidgin ++ | <a href="https://nbviewer.org/github/blackinai/blackinai.github.io/blob/4a3923311e72ea0613a1fcfd7472d98782787ff9/bai/src/files/BlackinAI22AcceptedPapers.pdf">Collaborative Research Work presented as a poster at Black in AI Affinity Workshop NeurIPS 2022</a></li>
+    <li> Multilingual COVID sentiment Analyzer | Work done at EPFL | 2022</li>
+    <li> FaqBot with DialogFlow | Work done at Data Scientist Network | 2021</li>
+    
+</ul>
