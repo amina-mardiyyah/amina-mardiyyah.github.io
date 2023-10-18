@@ -80,8 +80,7 @@ orcid_id: # your ORCID ID
 medium_username: mardiyyah
 research_gate_profile: # your profile on ResearchGate
 kaggle_id: # your kaggle id
-contact_note: >
-I am best reached via email or linkedin
+contact_note: I am best reached via email or linkedin
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

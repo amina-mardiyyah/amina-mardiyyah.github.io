@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.idiap.ch/~arufai/'>predoctoral research intern at Idiap Research Institute</a> | actively Searching For A PHD Position In Biomedical AI
+subtitle: <a href='https://www.idiap.ch/~arufai/'>Research intern at Idiap Research Institute</a> | actively Searching For A PHD Position
 
 profile:
   align: left
@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an African researcher. I earned an African Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence [AIMS/AMMI](www.aimsammi.org), fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. I have wide range of experience working on projects involving text-classification, language modelling, and speech recognition systems.
-I am currently working as predoctoral research intern at [Idiap](https://idiap.ch/en) Research Institute in Martigny, Switzerland, supervised by [Phil Garner](https://pgarner.github.io/). In the past, I worked as a summer intern at the [École polytechnique fédérale de Lausanne (EPFL](https://epfl.ch/en)) a public research university located in Lausanne, Switzerland.
+I earned an Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence [AIMS/AMMI](www.aimsammi.org), fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. I have wide range of experience working on projects involving text-classification, language modelling, and speech recognition systems.
+I am currently working as research intern at [Idiap](https://idiap.ch/en) Research Institute in Martigny, Switzerland, supervised by [Phil Garner](https://pgarner.github.io/). In the past, I worked as a summer intern at the [École polytechnique fédérale de Lausanne (EPFL](https://epfl.ch/en)) a public research university located in Lausanne, Switzerland.
 
 **Research Interests**:
 Interested in LLMs, Speech and audio processing, Pattern Recognition and Computer Vision, with applications to Clinical use-cases/Healthcare, Low-resource/resource-constrained environments
@@ -29,7 +29,7 @@ In my spare time, i write articles, You can read my articles on [Medium](https:/
 
 
 
-<h4><strong>Summary Background</strong></h4>
+<!-- <h4><strong>Summary Background</strong></h4>
 <h4>Education </h4>
 <ul>
     <li>Masters in Mathematics Major in Machine Intelligence | <a href="https://aimsammi.org">Afican Institute For Mathematical Science</a> Class of 2021</li>
@@ -51,4 +51,4 @@ In my spare time, i write articles, You can read my articles on [Medium](https:/
     <li> Multilingual COVID sentiment Analyzer | Work done at EPFL | 2022</li>
     <li> FaqBot with DialogFlow | Work done at Data Scientist Network | 2021</li>
     
-</ul>
+</ul> -->
