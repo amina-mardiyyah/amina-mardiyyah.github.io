@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: projects
 description: Some of my teaching experience from volunteering in communities
 nav: true
 nav_order: 5

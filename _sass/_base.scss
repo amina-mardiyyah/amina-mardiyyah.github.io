@@ -62,9 +62,9 @@ img {
 
 blockquote {
   background: var(--global-bg-color);
-  border-left: 2px solid var(--global-theme-color);
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
+  border-left: 5px solid var(--global-theme-color);
+  margin: 1.5em 0;
+  padding: 1em;
   font-size: 1.2rem;
 
   p {
@@ -186,7 +186,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
 
     .address {
       p {
@@ -298,7 +298,7 @@ blockquote {
 .navbar-toggler {
   .icon-bar {
     display: block;
-    width: 18px;
+    width: 22px;
     height: 2px;
     background-color: var(--global-text-color);
     border-radius: 1px;
