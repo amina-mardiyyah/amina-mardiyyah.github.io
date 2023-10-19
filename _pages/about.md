@@ -41,8 +41,8 @@ My research interests lie at the intersection of my two degrees in Machine Intel
 </ul>
 
 
-**Other Interesting things me**
-In my spare time, i write articles, You can read my articles on <a style="color:blue;" href="https://mardiyyah.medium.com">Medium</a>. I also love participating in competitive hackathons. Find profile Here: <a style="color:blue;" href="https://zindi.africa/users/Mardiyyah">Zindi</a>
+**Other Interesting things me**:
+In my spare time, I write articles, You can read my articles on <a style="color:blue;" href="https://mardiyyah.medium.com">Medium</a>. I also love participating in competitive hackathons. Find profile Here: <a style="color:blue;" href="https://zindi.africa/users/Mardiyyah">Zindi</a>.
 
 
 <!-- <h4><strong>Summary Background</strong></h4>
