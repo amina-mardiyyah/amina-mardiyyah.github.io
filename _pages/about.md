@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a style="color:blue;" href='https://www.idiap.ch/~arufai/'>Research intern at Idiap Research Institute</a> | actively Searching For A PHD Position
+subtitle: <a href='https://www.idiap.ch/~arufai/'>Research intern at Idiap Research Institute</a> | actively Searching For A PHD Position
 
 profile:
   align: left
@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi there 👋 ! I'm **Amina**, a research intern at <a style="color:blue;" href="https://idiap.ch/en">Idiap</a> Research Institute in Martigny, Switzerland  🇨🇭 , supervised by <a style="color:blue;" href="https://pgarner.github.io/">Phil Garner</a>. 
+Hi there 👋 ! I'm **Amina**, a research intern at <a href="https://idiap.ch/en">Idiap</a> Research Institute in Martigny, Switzerland  🇨🇭 , supervised by <a  href="https://pgarner.github.io/">Phil Garner</a>. 
 
-My educational background includes a Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence <a style="color:blue;" href="https://www.aimsammi.org">AIMS/AMMI</a>, fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. I also have a degree in Biomedical Engineering earned from the <a style="color:blue;" href="https://unilag.edu.ng">University of Lagos</a> in Nigeria.
+My educational background includes a Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence <a href="https://www.aimsammi.org">AIMS/AMMI</a>, fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. I also have a degree in Biomedical Engineering earned from the <a href="https://unilag.edu.ng">University of Lagos</a> in Nigeria.
 
 
 **Previously**, I worked as a summer research intern at the École polytechnique fédérale de Lausanne<a style="color:red;" href="https://epfl.ch/en">(EPFL)</a> a public research university located in Lausanne, Switzerland🇨🇭. Under the supervision of <a style="color:red;" href="https://people.epfl.ch/martin.jaggi">Prof Martin Jaggi</a> and <a style="color:red;" href="https://people.epfl.ch/mary-anne.hartley">Dr Mary-Anne Hartley</a> in the  <a style="color:red;" href="https://www.epfl.ch/labs/mlo/igh-intelligent-global-health/">MLO| iGlobal-Health lab</a>.
@@ -42,7 +42,7 @@ My research interests lie at the intersection of my two degrees in Machine Intel
 
 
 **Other Interesting things about me**:
-In my spare time, I write articles, You can read my articles on <a style="color:blue;" href="https://mardiyyah.medium.com">Medium</a>. I also love participating in competitive hackathons. Find profile Here: <a style="color:blue;" href="https://zindi.africa/users/Mardiyyah">Zindi</a>.
+In my spare time, I write articles, You can read my articles on <a href="https://mardiyyah.medium.com">Medium</a>. I also love participating in competitive hackathons. Find profile Here: <a href="https://zindi.africa/users/Mardiyyah">Zindi</a>.
 
 
 <!-- <h4><strong>Summary Background</strong></h4>
