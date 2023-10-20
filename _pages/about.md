@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Martigny, Switzerland 🇨🇭</p>
+    <p>🌍 Martigny, Switzerland 🇨🇭</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there 👋 ! I'm **Amina**, a research intern at <a href="https://idiap.ch/en">Idiap</a> Research Institute in Martigny, Switzerland  🇨🇭 , supervised by <a  href="https://pgarner.github.io/">Phil Garner</a>. 
 
-My educational background includes a Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence <a href="https://www.aimsammi.org">AIMS/AMMI</a>, fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. I also have a degree in Biomedical Engineering earned from the <a href="https://unilag.edu.ng">University of Lagos</a> in Nigeria.
+My educational background includes a Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence <a href="https://www.aimsammi.org">AIMS/AMMI</a>, fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. 
+
+I also have a degree in Biomedical Engineering earned from the <a href="https://unilag.edu.ng">University of Lagos</a> in Nigeria 🇳🇬.
 
 
 **Previously**, I worked as a summer research intern at the École polytechnique fédérale de Lausanne<a style="color:red;" href="https://epfl.ch/en">(EPFL)</a> a public research university located in Lausanne, Switzerland🇨🇭. Under the supervision of <a style="color:red;" href="https://people.epfl.ch/martin.jaggi">Prof Martin Jaggi</a> and <a style="color:red;" href="https://people.epfl.ch/mary-anne.hartley">Dr Mary-Anne Hartley</a> in the  <a style="color:red;" href="https://www.epfl.ch/labs/mlo/igh-intelligent-global-health/">MLO| iGlobal-Health lab</a>.
