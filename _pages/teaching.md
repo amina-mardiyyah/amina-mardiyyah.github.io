@@ -6,9 +6,10 @@ description: This page would be updated soon with links and description on the p
 nav: true
 nav_order: 5
 ---
-
-<h2> Nigerian Pidgin ++ </h2>
-<h2> AfriWOz </h2>
-<h2> FAQBot with DialogFlow </h2>
-<h2> Google ASR Research hackathon </h2>
-<h2> Gastrointestinal Disease Classification </h2>
+<ul>
+<li> Nigerian Pidgin ++ </li>
+<li> AfriWOz </li>
+<li> FAQBot with DialogFlow </li>
+<li> Google ASR Research hackathon </li>
+<li> Gastrointestinal Disease Classification </li>
+</ul>
