@@ -25,7 +25,7 @@ My educational background includes a Master's in Machine Intelligence from the A
 I also have a degree in Biomedical Engineering earned from the <a href="https://unilag.edu.ng">University of Lagos</a> in Nigeria 🇳🇬.
 
 
-**Previously**, I worked as a summer research intern at the École polytechnique fédérale de Lausanne<a style="color:red;" href="https://epfl.ch/en">(EPFL)</a> a public research university located in Lausanne, Switzerland🇨🇭. Under the supervision of <a style="color:red;" href="https://people.epfl.ch/martin.jaggi">Prof Martin Jaggi</a> and <a style="color:red;" href="https://people.epfl.ch/mary-anne.hartley">Dr Mary-Anne Hartley</a> in the  <a style="color:red;" href="https://www.epfl.ch/labs/mlo/igh-intelligent-global-health/">MLO| iGlobal-Health lab</a>.
+**Previously**, I worked as a summer research intern at the École polytechnique fédérale de Lausanne<a style="color:red;" href="https://epfl.ch/en">(EPFL)</a> a public research university located in Lausanne, Switzerland🇨🇭. Under the supervision of <a style="color:red;" href="https://people.epfl.ch/martin.jaggi">Prof Martin Jaggi</a> and <a style="color:red;" href="https://people.epfl.ch/mary-anne.hartley">Dr Mary-Anne Hartley</a> in the  <a style="color:red;" href="https://www.yale-light.org/team">Yale LiGHT</a>.
 
 
 <br>
