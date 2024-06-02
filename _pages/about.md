@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    # <p> 🌍 Cambridge, Cambridgeshire, United Kingdom </p>
-    <p>555 your office number</p>
+    <p> 🌍 Cambridge, Cambridgeshire, United Kingdom </p>
+    
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
