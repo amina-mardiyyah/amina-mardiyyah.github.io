@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Data Scientist at <a href='https://www.ebi.ac.uk/'> EMBL-EBI </a> | Formerly a research intern at <a href='https://www.idiap.ch/en> Idiap Research Institue</a> 
+subtitle: Machine Learning Data Scientist at <a href='https://www.ebi.ac.uk/'> EMBL-EBI </a> | Formerly a research intern at <a href='https://www.idiap.ch/en'> Idiap Research Institue</a> 
 
 profile:
   align: left
-  image: assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>🌍 Cambridge, Cambridgeshire, United Kingdom</p>
