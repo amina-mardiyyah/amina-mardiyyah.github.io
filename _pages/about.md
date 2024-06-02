@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.idiap.ch/~arufai/'>Research intern at Idiap Research Institute</a> | actively Searching For A PHD Position
+subtitle: Machine Learning Data Scientist at <a href='https://www.ebi.ac.uk/'> EMBL-EBI </a> | Formerly a research intern at <a href='https://www.idiap.ch/en> Idiap Research Institue</a> 
 
 profile:
   align: left
@@ -18,14 +18,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi there 👋 ! I'm **Amina**, a research intern at <a href="https://idiap.ch/en">Idiap</a> Research Institute in Martigny, Switzerland  🇨🇭 , supervised by <a  href="https://pgarner.github.io/">Phil Garner</a>. 
+Hi there 👋 ! I'm **Amina**, a Machine Learning Engineer currently working with the <a href='https://www.ebi.ac.uk/about/teams/literature-services/'> literature service team at EMBL-EBI </a>. 
 
 My educational background includes a Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence <a href="https://www.aimsammi.org">AIMS/AMMI</a>, fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants from across Africa. 
 
 I also have a degree in Biomedical Engineering earned from the <a href="https://unilag.edu.ng">University of Lagos</a> in Nigeria 🇳🇬.
 
 
-**Previously**, I worked as a summer research intern at the École polytechnique fédérale de Lausanne<a style="color:red;" href="https://epfl.ch/en">(EPFL)</a>, a public research university located in Lausanne, Switzerland🇨🇭. Under the supervision of <a style="color:red;" href="https://people.epfl.ch/martin.jaggi">Prof Martin Jaggi</a> and <a style="color:red;" href="https://www.yale-light.org/team">Dr Mary-Anne Hartley</a> in the  <a style="color:red;" href="https://www.epfl.ch/labs/mlo/igh-intelligent-global-health/">MLO | iGH lab</a>.
+**Previously**, I worked as a research intern at <a href="https://idiap.ch/en">Idiap</a> Research Institute in Martigny, Switzerland  🇨🇭 , supervised by <a  href="https://pgarner.github.io/">Phil Garner</a>. and I was also a summer research intern at the École polytechnique fédérale de Lausanne<a style="color:red;" href="https://epfl.ch/en">(EPFL)</a>, a public research university located in Lausanne, Switzerland🇨🇭. There, I worked under the supervision of <a style="color:red;" href="https://people.epfl.ch/martin.jaggi">Prof Martin Jaggi</a> and <a style="color:red;" href="https://www.yale-light.org/team">Dr Mary-Anne Hartley</a> in the  <a style="color:red;" href="https://www.epfl.ch/labs/mlo/igh-intelligent-global-health/">MLO | iGH lab</a>.
 
 
 <br>
