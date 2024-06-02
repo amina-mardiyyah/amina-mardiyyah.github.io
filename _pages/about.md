@@ -6,7 +6,7 @@ subtitle: Machine Learning Data Scientist at <a href='https://www.ebi.ac.uk/'> E
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: assets/img/prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>🌍 Cambridge, Cambridgeshire, United Kingdom</p>
