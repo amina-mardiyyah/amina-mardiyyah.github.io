@@ -5,11 +5,11 @@
     - name: Full Name
       value: Amina Mardiyyah Rufai
     - name: contact
-      value: <a href="">amina.rufai@idiap.ch</a>
+      value: <a href="">amrufai@ebi.ac.uk</a>
     - name: Languages
-      value: English
+      value: English, French(Basic)
     - name: Location
-      value: <a href=""> Martigny, Switzerland</a>
+      value: <a href=""> Cambridge, Cambridgeshire, United Kingdom</a>
 
 - title: Education
   type: time_table
