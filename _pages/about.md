@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: > 🌍 Cambridge, Cambridgeshire, United Kingdom
+  more_info: > <p> 🌍 Cambridge, Cambridgeshire, United Kingdom
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
