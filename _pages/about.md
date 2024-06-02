@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-  <p> 🌍 Cambridge, Cambridgeshire, United Kingdom </p>
+    # <p> 🌍 Cambridge, Cambridgeshire, United Kingdom </p>
+    <p>555 your office number</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -17,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-
+    
 Hi there 👋 ! I'm **Amina**, a Machine Learning Engineer currently working with the <a href='https://www.ebi.ac.uk/about/teams/literature-services/'> literature service team at EMBL-EBI </a>. 
 
 My educational background includes a Master's in Machine Intelligence from the African Institute of Mathematical Sciences/Machine Intelligence <a href="https://www.aimsammi.org">AIMS/AMMI</a>, fully funded by Facebook(Meta) and Google. I was one of 40 students chosen from over 7000 applicants across Africa. 
