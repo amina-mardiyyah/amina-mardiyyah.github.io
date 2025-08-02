@@ -30,9 +30,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Machine Learning Engineer
+      institution: <a href="https://www.ebi.ac.uk/">EMBL-EBI</a> 
+      year: 2024  - present
+      description:
+
     - title: Research Intern
       institution: <a href="https://idiap.ch/en">Idiap Research Institute</a> 
-      year: 2023 
+      year: 2023 - 2024
       description:
     - title: Summer Research Intern
       institution: <a href="">École Polytechnique Fédérale de Lausanne (EPFL)</a>
@@ -41,7 +46,7 @@
 
     - title: Research Analyst
       institution: <a href="https://www.datasciencenigeria.org/"> Data Scientist Network(formerly Data Science Nigeria)</a>
-      year: 2021
+      year: 2021 -2022
 
 
 - title: Open Source Projects
